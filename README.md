@@ -15,7 +15,7 @@ Pastikan Anda telah menginstal:
 ### Langkah 1: Clone Repositori
 
 ```bash
-git clone https://github.com/yourusername/news-management.git
+git clone https://github.com/nadirbakri/news-management.git
 cd news-management
 ```
 
