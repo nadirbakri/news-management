@@ -9,7 +9,6 @@ Proyek ini adalah API untuk Back End Developer Technical Test PT. Jelajah Data S
 Pastikan Anda telah menginstal:
 
 - [Composer](https://getcomposer.org/download/)
-- [Node.js](https://nodejs.org/)
 - [Git](https://git-scm.com/)
 
 ### Langkah 1: Clone Repositori
